@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "donjayamanne.githistory",
+        "ecmel.vscode-html-css",
+        "ritwickdey.liveserver",
+        "mrmlnc.vscode-scss",
+        "sibiraj-s.vscode-scss-formatter",
+        "pkief.material-icon-theme",
+        "ms-vscode-remote.remote-wsl"
+    ]
+}
